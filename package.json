@@ -1,0 +1,19 @@
+{
+  "name": "gny-scripts",
+  "author": "Lemii <lemiidelegate@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lemii/gny-scripts.git"
+  },
+  "description": "A collection of GNY scripts and modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@gny/client": "^1.0.8",
+    "bip39": "^3.0.2"
+  }
+}
